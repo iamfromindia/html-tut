@@ -1,0 +1,43 @@
+
+/* element selector */
+p{
+color: blue;
+text-align: center;
+}
+/* class selector */
+.para{
+    color: red;
+}
+/* id selector */
+#p3{
+    color: black;
+}
+#p3{
+    color: orange;
+}
+.a3{
+    color: aqua;
+}
+.bg{
+    background-color: blue;
+}
+.text{
+    color: black;
+}
+body{
+    background-color: blueviolet;
+    background-size: contain;
+    background-image: url(/istockphoto-1311598222-1024x1024.jpg);
+    background-attachment: scroll;
+}
+.text{
+    border-style:solid groove dotted dashed;
+    border-color: chartreuse;
+    border-width: 10px;
+    border-radius: 10px 50px;
+    /* border: solid 10px chocolate; */
+
+}
+.text{
+    padding: 10%;
+}
